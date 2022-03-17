@@ -1,0 +1,6 @@
+MYPREFERENCES
+    FAVORITE_MOVIE Kingdom_of_heaven
+    FAVORITE_SERIES Vikings
+    FAVORITE_BOOK Taras_Bulba
+    FAVORITE_FOOD Meat
+    I_WANT_TO_VISIT_THE_COUNTRY Spain
