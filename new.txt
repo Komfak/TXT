@@ -1,0 +1,7 @@
+  ABOUT_MYSELF
+      SURNAME Kiselev
+      NAME Evgeny
+      MIDDLE_NAME Victorovich
+      AGE 33
+      NUMBER_OF_PETS null
+      SALARY 700
